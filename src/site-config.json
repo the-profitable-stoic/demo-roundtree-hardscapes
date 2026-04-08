@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "RoundTree Hardscapes",
+    "phone": "+16159551315",
+    "category": "hardscaping contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Premier Hardscaping Team",
+      "heroSubline": "Crafting exceptional outdoor spaces across Middle Tennessee. We deliver lasting beauty and functionality, built to withstand our unique climate.",
+      "aboutTitle": "Built on Hard Work, Rooted in Nashville",
+      "aboutText": [
+        "RoundTree Hardscapes started with a simple mission: to bring exceptional craftsmanship and lasting value to Nashville homes. Founded by a local, we understand the unique challenges and opportunities presented by our region's climate and landscape.",
+        "We approach every project with meticulous attention to detail, using only the highest quality materials and proven techniques. Our commitment to clear communication and collaborative design ensures your vision becomes a reality.",
+        "We're proud to be a part of the Nashville community and are committed to giving back. We actively support local organizations and strive to minimize our environmental impact through responsible practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Nashville's soil, weather patterns, and architectural styles, ensuring lasting hardscape solutions."
+        },
+        {
+          "title": "Custom Design",
+          "description": "From concept to completion, we work closely with you to create a unique outdoor space that reflects your personal style and needs."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable, weather-resistant materials that stand up to Tennessee's hot summers and occasional ice storms."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our experienced team ensures precise installation, exceeding industry standards for long-term performance."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space Today",
+      "ctaSubline": "Get a free consultation and discover the possibilities for your property."
+    },
+    "services": [
+      {
+        "slug": "patios-and-walkways",
+        "name": "Patios & Walkways",
+        "shortDescription": "Crafting durable and beautiful patios and walkways tailored to your Nashville property.",
+        "description": "We design and install custom patios and walkways that enhance your outdoor living space. From classic brick and natural stone to modern pavers and concrete, we offer a wide range of materials to suit your style and budget. Our team carefully considers drainage, slope, and soil conditions to ensure a long-lasting and functional design that can withstand Nashville's frequent rain and temperature fluctuations.\n\nWhether you're looking to create a cozy outdoor dining area, a welcoming front walkway, or a stunning pool deck, we'll work with you every step of the way to bring your vision to life. We handle everything from excavation and base preparation to material selection and final installation, ensuring a seamless and stress-free experience. We also offer patio repair and restoration services to breathe new life into existing hardscapes.\n\nWe understand the importance of proper installation to prevent settling, cracking, and weed growth. Our experienced team uses proven techniques and high-quality materials to ensure your patio or walkway looks beautiful and performs flawlessly for years to come.",
+        "process": [
+          "Step 1: Initial Consultation & Design – Discuss your needs and create a custom design plan.",
+          "Step 2: Site Preparation – Excavation, grading, and base installation for proper drainage.",
+          "Step 3: Material Selection & Installation – Choose your preferred materials and watch our team expertly install your patio or walkway.",
+          "Step 4: Final Inspection & Cleanup – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Improved curb appeal",
+          "Durable and long-lasting construction"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for patios in Nashville's climate?",
+            "answer": "Durable options like flagstone, pavers, and concrete are ideal, as they withstand temperature changes and moisture. We can advise on the best choice for your specific needs."
+          },
+          {
+            "question": "How long does it take to install a patio?",
+            "answer": "The timeframe depends on the size and complexity of the project, but most patios can be completed within 1-2 weeks. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do you offer patio repair services?",
+            "answer": "Yes, we offer comprehensive patio repair services, including crack repair, leveling, and joint stabilization. We can restore your existing patio to its former glory."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Building strong and visually appealing retaining walls to manage Nashville's challenging terrain.",
+        "description": "We specialize in designing and constructing durable retaining walls that address erosion control, manage sloping landscapes, and add visual interest to your property. Nashville's rolling hills and frequent rainfall can create challenging conditions, making properly engineered retaining walls crucial for preventing soil erosion and protecting your foundation.\n\nWe work with a variety of materials, including concrete blocks, natural stone, and timber, to create retaining walls that complement your landscape and meet your specific needs. Our team has extensive experience in designing and building walls of all sizes, from small garden walls to large structural walls. We understand the importance of proper drainage and soil stabilization to ensure the long-term stability of your retaining wall.\n\nWe handle all aspects of the project, from site assessment and excavation to material selection and installation. Our goal is to provide you with a retaining wall that is both functional and aesthetically pleasing, enhancing the beauty and value of your property. We also offer retaining wall repair and maintenance services to keep your walls in top condition.",
+        "process": [
+          "Step 1: Site Evaluation & Design – Assess the slope, soil conditions, and drainage requirements.",
+          "Step 2: Material Selection – Choose the best material for your project needs and budget.",
+          "Step 3: Excavation & Foundation – Prepare the site and build a solid foundation for the wall.",
+          "Step 4: Wall Construction & Drainage – Expertly construct the wall with proper drainage systems."
+        ],
+        "benefits": [
+          "Erosion control and soil stabilization",
+          "Increased usable space on sloped properties",
+          "Enhanced landscape aesthetics",
+          "Prevention of foundation damage"
+        ],
+        "faq": [
+          {
+            "question": "What type of retaining wall is best for my property?",
+            "answer": "The best type depends on the height, soil conditions, and aesthetic preferences. We'll assess your property and recommend the most suitable solution."
+          },
+          {
+            "question": "Do I need a permit for a retaining wall?",
+            "answer": "Permit requirements vary depending on the height and location of the wall. We'll handle the permit process for you, ensuring compliance with local regulations."
+          },
+          {
+            "question": "How long will a retaining wall last?",
+            "answer": "With proper design and installation, a well-built retaining wall can last for decades. We use high-quality materials and proven techniques to ensure long-term durability."
+          }
+        ]
+      },
+      {
+        "slug": "driveways",
+        "name": "Driveways",
+        "shortDescription": "Installing durable and attractive driveways that enhance your Nashville home's curb appeal.",
+        "description": "We build and repair driveways using a variety of materials, including asphalt, concrete, and pavers. A well-designed and properly installed driveway not only enhances the curb appeal of your home but also provides a safe and durable surface for parking and driving. We understand the unique challenges posed by Nashville's climate, including freeze-thaw cycles and heavy rainfall, and we take these factors into consideration when designing and building your driveway.\n\nWhether you're looking for a classic asphalt driveway, a decorative concrete driveway, or a permeable paver driveway, we have the expertise to deliver exceptional results. We handle all aspects of the project, from excavation and grading to material selection and installation. Our team uses high-quality materials and proven techniques to ensure a long-lasting and aesthetically pleasing driveway.\n\nWe also offer driveway repair and resurfacing services to extend the life of your existing driveway. From crack filling and patching to sealcoating and resurfacing, we can restore your driveway to its former glory. We'll assess the condition of your driveway and recommend the most cost-effective solution to address your needs.",
+        "process": [
+          "Step 1: Site Assessment & Design – Evaluate existing conditions and create a custom driveway design.",
+          "Step 2: Excavation & Grading – Prepare the site for proper drainage and base installation.",
+          "Step 3: Material Installation – Expertly install your chosen driveway material.",
+          "Step 4: Compaction & Finishing – Ensure a smooth, durable, and long-lasting surface."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Improved curb appeal",
+          "Safe and durable surface for parking and driving",
+          "Reduced maintenance costs"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a driveway in Nashville?",
+            "answer": "Concrete and asphalt are popular choices due to their durability and affordability. Pavers offer a more decorative option but require more maintenance. We can help you choose the best material based on your budget and aesthetic preferences."
+          },
+          {
+            "question": "How often should I sealcoat my asphalt driveway?",
+            "answer": "We recommend sealcoating your asphalt driveway every 2-3 years to protect it from the elements and extend its lifespan."
+          },
+          {
+            "question": "Can you repair cracks in my concrete driveway?",
+            "answer": "Yes, we offer concrete crack repair services. We'll fill the cracks with a high-quality sealant to prevent further damage and restore the integrity of your driveway."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens",
+        "name": "Outdoor Kitchens",
+        "shortDescription": "Designing and building custom outdoor kitchens for the ultimate Nashville entertaining experience.",
+        "description": "Create the ultimate outdoor entertaining space with a custom-designed outdoor kitchen. We specialize in designing and building outdoor kitchens that are both functional and stylish, tailored to your specific needs and preferences. Whether you're looking for a simple grilling station or a fully equipped outdoor cooking and dining area, we can bring your vision to life.\n\nWe work with a variety of materials, including stainless steel, stone, brick, and concrete, to create outdoor kitchens that are both durable and aesthetically pleasing. Our team has extensive experience in designing and building outdoor kitchens that seamlessly integrate with your existing landscape and architecture. We handle all aspects of the project, from design and planning to construction and installation.\n\nWe can incorporate a variety of features into your outdoor kitchen, including grills, smokers, refrigerators, sinks, countertops, and storage cabinets. We'll work with you to select the best appliances and features to meet your cooking and entertaining needs. We also offer outdoor kitchen lighting and electrical services to create a comfortable and functional space that can be enjoyed day or night.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision, budget, and desired features.",
+          "Step 2: Site Planning & Layout – Create a detailed plan that maximizes space and functionality.",
+          "Step 3: Material Selection – Choose durable and weather-resistant materials.",
+          "Step 4: Construction & Installation – Expertly build and install your custom outdoor kitchen."
+        ],
+        "benefits": [
+          "Expanded outdoor living space",
+          "Enhanced entertaining capabilities",
+          "Increased property value",
+          "Customized design to fit your needs"
+        ],
+        "faq": [
+          {
+            "question": "What permits are required for an outdoor kitchen?",
+            "answer": "Permit requirements vary depending on the scope of the project and local regulations. We'll handle the permit process for you."
+          },
+          {
+            "question": "What materials are best for an outdoor kitchen in Nashville's climate?",
+            "answer": "Stainless steel, stone, and concrete are excellent choices due to their durability and resistance to the elements."
+          },
+          {
+            "question": "How much does an outdoor kitchen cost?",
+            "answer": "The cost varies depending on the size, features, and materials used. We'll provide a detailed estimate based on your specific requirements."
+          }
+        ]
+      },
+      {
+        "slug": "fire-pits-fireplaces",
+        "name": "Fire Pits & Fireplaces",
+        "shortDescription": "Creating cozy outdoor gathering spaces with custom fire pits and fireplaces in Nashville.",
+        "description": "Extend your outdoor living season with a custom-built fire pit or fireplace. We design and install fire features that add warmth, ambiance, and a focal point to your outdoor space. Whether you're looking for a rustic wood-burning fire pit or a modern gas-powered fireplace, we can create a design that complements your style and enhances your outdoor living experience.\n\nWe work with a variety of materials, including stone, brick, and concrete, to create fire features that are both durable and aesthetically pleasing. Our team has extensive experience in designing and building fire pits and fireplaces that meet all safety codes and regulations. We handle all aspects of the project, from design and planning to construction and installation.\n\nWe can incorporate a variety of features into your fire pit or fireplace, including seating areas, built-in storage, and decorative accents. We'll work with you to select the best features to meet your needs and create a comfortable and inviting outdoor gathering space. We also offer fire pit and fireplace repair and maintenance services to keep your fire feature in top condition.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision, desired size, and fuel type.",
+          "Step 2: Site Planning & Safety – Ensure proper ventilation and clearance from structures.",
+          "Step 3: Material Selection – Choose fire-resistant materials that complement your landscape.",
+          "Step 4: Construction & Installation – Expertly build and install your custom fire feature."
+        ],
+        "benefits": [
+          "Extended outdoor living season",
+          "Enhanced ambiance and focal point",
+          "Increased property value",
+          "Cozy gathering space for family and friends"
+        ],
+        "faq": [
+          {
+            "question": "What are the safety regulations for fire pits and fireplaces?",
+            "answer": "Safety regulations vary depending on local codes. We'll ensure your fire feature meets all applicable safety standards."
+          },
+          {
+            "question": "What is the best fuel type for a fire pit?",
+            "answer": "Wood-burning fire pits offer a traditional ambiance, while gas-powered fire pits are more convenient and require less maintenance. Propane or natural gas are common fuel choices."
+          },
+          {
+            "question": "Can you build a fire pit on a wooden deck?",
+            "answer": "Building a fire pit on a wooden deck requires special precautions, such as using a fire-resistant barrier and ensuring adequate ventilation. We can assess your deck and recommend the best solution."
+          }
+        ]
+      },
+      {
+        "slug": "pergolas-pavilions",
+        "name": "Pergolas & Pavilions",
+        "shortDescription": "Designing and building custom pergolas and pavilions for shade and style in Nashville gardens.",
+        "description": "Add shade, style, and architectural interest to your outdoor space with a custom-designed pergola or pavilion. We specialize in designing and building pergolas and pavilions that are both functional and aesthetically pleasing, tailored to your specific needs and preferences. Whether you're looking for a simple shade structure or a fully enclosed outdoor living area, we can bring your vision to life.\n\nWe work with a variety of materials, including wood, vinyl, and metal, to create pergolas and pavilions that complement your landscape and architecture. Our team has extensive experience in designing and building pergolas and pavilions that meet all building codes and regulations. We handle all aspects of the project, from design and planning to construction and installation.\n\nWe can incorporate a variety of features into your pergola or pavilion, including lighting, electrical outlets, ceiling fans, and screens. We'll work with you to select the best features to meet your needs and create a comfortable and functional outdoor space. We also offer pergola and pavilion repair and maintenance services to keep your structure in top condition.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision, desired size, and style preferences.",
+          "Step 2: Site Planning & Permits – Obtain necessary permits and ensure proper site preparation.",
+          "Step 3: Material Selection – Choose durable and weather-resistant materials.",
+          "Step 4: Construction & Installation – Expertly build and install your custom pergola or pavilion."
+        ],
+        "benefits": [
+          "Added shade and protection from the elements",
+          "Enhanced outdoor living space",
+          "Increased property value",
+          "Architectural interest and style"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for a pergola or pavilion?",
+            "answer": "Permit requirements vary depending on local regulations. We'll handle the permit process for you."
+          },
+          {
+            "question": "What is the best material for a pergola or pavilion in Nashville's climate?",
+            "answer": "Wood, vinyl, and metal are all good choices. Wood offers a natural look, while vinyl is low-maintenance and metal is durable and long-lasting."
+          },
+          {
+            "question": "Can you add screens to a pergola or pavilion?",
+            "answer": "Yes, we can add screens to create a screened-in porch or outdoor living area."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes is proud to offer our expert hardscaping services to the residents of Franklin, Tennessee. Known for its charming historic downtown and beautiful antebellum homes, Franklin offers a unique landscape that demands a blend of classic design and modern functionality. We understand the importance of preserving the historical character of your property while enhancing its outdoor living spaces.\n\nWhether you're looking to restore a historic courtyard, create a stunning outdoor patio, or add a functional retaining wall to your property, RoundTree Hardscapes has the experience and expertise to bring your vision to life. We carefully select materials that complement the architectural style of Franklin's homes and can withstand the hot, humid summers typical of the region. Let us transform your outdoor space into a beautiful and functional extension of your home.",
+        "localContext": "Franklin's historic downtown and antebellum architecture require careful consideration when designing hardscaping projects, ensuring they complement the existing aesthetic.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes is dedicated to providing top-quality hardscaping services to the growing community of Murfreesboro, Tennessee. With its numerous family-friendly developments and affordable housing options, Murfreesboro offers a vibrant and welcoming atmosphere. We understand the needs of families looking to create beautiful and functional outdoor spaces that enhance their homes and lifestyles.\n\nFrom designing and installing patios and walkways to building retaining walls and outdoor kitchens, RoundTree Hardscapes is committed to delivering exceptional results that meet your specific needs and budget. We use durable materials and proven techniques to ensure your hardscaping project withstands the test of time and the hot, humid Tennessee summers. Enhance your family's outdoor living experience with RoundTree Hardscapes.",
+        "localContext": "Murfreesboro's family-oriented communities often seek functional and affordable hardscaping solutions to enhance their homes' outdoor living spaces.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Eagleville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes specializes in creating luxurious and elegant hardscaping designs for the discerning homeowners of Brentwood, Tennessee. Known for its upscale estates and sprawling wooded lots, Brentwood offers a unique landscape that demands high-quality materials and meticulous craftsmanship. We understand the importance of creating outdoor spaces that reflect the sophistication and beauty of your home.\n\nWhether you're envisioning a grand outdoor entertaining area, a serene garden retreat, or a functional and aesthetically pleasing driveway, RoundTree Hardscapes has the expertise to bring your dreams to life. We work with a variety of premium materials, including natural stone, pavers, and custom-designed features, to create stunning and lasting hardscaping projects. Let us transform your Brentwood property into an outdoor oasis.",
+        "localContext": "Brentwood's luxury estates and wooded lots require high-end hardscaping designs that complement the natural beauty of the area.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes is pleased to offer our hardscaping services to the residents of Hendersonville, Tennessee. With its beautiful lakefront homes along Old Hickory Lake, Hendersonville provides a stunning backdrop for outdoor living. We understand the unique challenges and opportunities presented by waterfront properties and are committed to creating hardscaping solutions that maximize your enjoyment of the lake and surrounding landscape.\n\nFrom designing and installing lakeside patios and walkways to building retaining walls that protect against erosion, RoundTree Hardscapes has the experience and expertise to enhance your waterfront property. We use durable materials that can withstand the elements and create outdoor spaces that are both beautiful and functional. Enjoy the lake life to the fullest with RoundTree Hardscapes.",
+        "localContext": "Hendersonville's lakefront properties require specialized hardscaping solutions that consider water management and maximize enjoyment of Old Hickory Lake.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Madison"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes is proud to serve the vibrant and diverse city of Nashville, Tennessee. From historic neighborhoods to modern developments, Nashville offers a wide range of architectural styles and outdoor living preferences. We understand the unique needs of Nashville homeowners and are committed to providing top-quality hardscaping services that enhance their properties and lifestyles.\n\nWhether you're looking to create a cozy backyard patio, a functional outdoor kitchen, or a stunning front entrance, RoundTree Hardscapes has the expertise to bring your vision to life. We work with a variety of materials and designs to create custom hardscaping solutions that meet your specific needs and budget. Let us transform your Nashville property into an outdoor oasis.",
+        "localContext": "Nashville's diverse neighborhoods and architectural styles require a flexible and adaptable approach to hardscaping design.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes provides expert hardscaping services to the growing community of Smyrna, Tennessee. Known for its family-friendly atmosphere and convenient location, Smyrna offers a variety of housing options and outdoor living spaces. We understand the needs of Smyrna homeowners and are committed to delivering high-quality hardscaping solutions that enhance their properties and lifestyles.\n\nFrom designing and installing patios and walkways to building retaining walls and outdoor fire pits, RoundTree Hardscapes offers a wide range of services to meet your specific needs. We use durable materials and proven techniques to ensure your hardscaping project withstands the test of time and the elements. Enhance your Smyrna home with RoundTree Hardscapes.",
+        "localContext": "Smyrna's family-oriented communities benefit from functional and affordable hardscaping solutions for outdoor living.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes is dedicated to providing top-notch hardscaping services to the residents of Gallatin, Tennessee. With its rich history and beautiful landscapes, Gallatin offers a unique blend of small-town charm and modern amenities. We understand the importance of preserving the character of Gallatin's homes while enhancing their outdoor living spaces.\n\nWhether you're looking to create a welcoming front entrance, a relaxing backyard patio, or a functional outdoor kitchen, RoundTree Hardscapes has the expertise to bring your vision to life. We carefully select materials that complement the architectural style of Gallatin's homes and can withstand the local climate. Let us transform your Gallatin property into an outdoor haven.",
+        "localContext": "Gallatin's historical character and landscape require careful consideration in hardscaping projects to maintain the town's charm.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes proudly serves the residents of La Vergne, Tennessee, offering comprehensive hardscaping solutions to enhance outdoor living spaces. La Vergne, known for its growing community and convenient location, presents diverse landscaping opportunities. We understand the needs of La Vergne homeowners and strive to provide services that meet their unique requirements.\n\nFrom designing and installing patios and walkways to constructing retaining walls and outdoor fire pits, RoundTree Hardscapes is committed to delivering exceptional results. We use durable materials and proven techniques to ensure your hardscaping project stands the test of time and enhances your property's value. Let us help you create an inviting outdoor environment.",
+        "localContext": "La Vergne's growing community values functional and aesthetically pleasing hardscaping that complements their homes.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes is pleased to extend its hardscaping expertise to the residents of Spring Hill, Tennessee. With its rapid growth and family-friendly environment, Spring Hill offers numerous opportunities for creating beautiful and functional outdoor spaces. We are dedicated to providing high-quality services that meet the needs of Spring Hill homeowners.\n\nWhether you're looking to install a new patio, build a retaining wall, or create an outdoor living area, RoundTree Hardscapes has the experience and resources to bring your vision to life. We use durable materials and innovative designs to ensure your hardscaping project enhances your property's value and appeal. Let us transform your outdoor space into a place you'll love to spend time.",
+        "localContext": "Spring Hill's rapid growth and family-friendly focus drive the demand for functional and attractive hardscaping solutions.",
+        "nearbyAreas": [
+          "Columbia",
+          "Thompson's Station",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Goodlettsville",
+        "slug": "goodlettsville-tn",
+        "state": "TN",
+        "content": "RoundTree Hardscapes is proud to provide hardscaping services to the community of Goodlettsville, Tennessee. Known for its blend of suburban charm and historical significance, Goodlettsville offers a unique setting for outdoor living. We understand the diverse needs of Goodlettsville homeowners and are committed to delivering exceptional hardscaping solutions.\n\nWhether you're interested in creating a cozy backyard retreat, enhancing your front entrance, or building a functional outdoor space, RoundTree Hardscapes has the expertise to bring your ideas to life. We offer a wide range of services, from patio installations to retaining wall construction, using durable materials and proven techniques. Let us help you create a beautiful and functional outdoor environment that enhances your Goodlettsville property.",
+        "localContext": "Goodlettsville's blend of suburban and historical elements requires hardscaping designs that complement the area's unique character.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Madison",
+          "White House"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Patio Installation",
+        "text": "RoundTree Hardscapes did an amazing job installing our new patio! From the initial design consultation to the final cleanup, they were professional, efficient, and communicative. The patio looks fantastic and has completely transformed our backyard. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Retaining Wall Construction",
+        "text": "We needed a retaining wall to stabilize a slope in our backyard, and RoundTree Hardscapes delivered a rock-solid solution. The team was knowledgeable about the local soil conditions and built a wall that is both functional and beautiful. Great work!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Driveway Repair",
+        "text": "Our driveway had some major cracks and potholes, and RoundTree Hardscapes did a great job repairing it. They were able to fix the damage quickly and efficiently, and the driveway looks much better now. Good value for the price.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Outdoor Kitchen Installation",
+        "text": "RoundTree Hardscapes built the outdoor kitchen of our dreams! They helped us design a space that perfectly fits our needs and lifestyle. The quality of the workmanship is excellent, and we love spending time cooking and entertaining in our new outdoor kitchen.",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 5,
+        "service": "Fire Pit Installation",
+        "text": "We hired RoundTree Hardscapes to install a fire pit in our backyard, and we couldn't be happier with the results. The fire pit is beautiful and functional, and it's the perfect place to gather with friends and family on cool evenings. Highly recommend!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Pergola Construction",
+        "text": "RoundTree Hardscapes built a lovely pergola for our garden. The construction is solid, and it provides just the right amount of shade. There were a few minor delays, but they communicated well and made sure we were happy with the final product.",
+        "date": "2024-12-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "RoundTree Hardscapes | Nashville TN",
+        "description": "Nashville's top hardscaping contractor. Patios, walkways, retaining walls & more. Serving Franklin, Brentwood, Murfreesboro & Hendersonville."
+      },
+      "about": {
+        "title": "About RoundTree Hardscapes | Nashville TN",
+        "description": "Learn about RoundTree Hardscapes, Nashville's premier hardscaping contractor. Quality craftsmanship & local expertise you can trust."
+      },
+      "services": {
+        "title": "Hardscaping Services | Nashville TN",
+        "description": "RoundTree Hardscapes offers comprehensive hardscaping services in Nashville. Patios, walkways, retaining walls, outdoor kitchens & more!"
+      },
+      "contact": {
+        "title": "Contact RoundTree Hardscapes | Nashville TN",
+        "description": "Contact RoundTree Hardscapes for a free consultation. Serving Nashville, Franklin, Brentwood, Murfreesboro, and Hendersonville."
+      },
+      "reviews": {
+        "title": "RoundTree Hardscapes Reviews | Nashville TN",
+        "description": "Read reviews for RoundTree Hardscapes, Nashville's trusted hardscaping contractor. See what our clients say about our quality & service."
+      },
+      "service-areas": {
+        "title": "Service Areas | RoundTree Hardscapes",
+        "description": "RoundTree Hardscapes provides hardscaping services in Nashville, Franklin, Brentwood, Murfreesboro, and Hendersonville. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "patios-and-walkways": "/images/service-patios-and-walkways.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "driveways": "/images/service-driveways.webp",
+      "outdoor-kitchens": "/images/service-outdoor-kitchens.webp",
+      "fire-pits-fireplaces": "/images/service-fire-pits-fireplaces.webp",
+      "pergolas-pavilions": "/images/service-pergolas-pavilions.webp"
+    },
+    "servicesResponsive": {
+      "patios-and-walkways": {
+        "src": "/images/service-patios-and-walkways.webp",
+        "srcset": "/images/service-patios-and-walkways-400w.webp 400w, /images/service-patios-and-walkways-800w.webp 800w, /images/service-patios-and-walkways-1200w.webp 1200w, /images/service-patios-and-walkways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveways": {
+        "src": "/images/service-driveways.webp",
+        "srcset": "/images/service-driveways-400w.webp 400w, /images/service-driveways-800w.webp 800w, /images/service-driveways-1200w.webp 1200w, /images/service-driveways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens": {
+        "src": "/images/service-outdoor-kitchens.webp",
+        "srcset": "/images/service-outdoor-kitchens-400w.webp 400w, /images/service-outdoor-kitchens-800w.webp 800w, /images/service-outdoor-kitchens-1200w.webp 1200w, /images/service-outdoor-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fire-pits-fireplaces": {
+        "src": "/images/service-fire-pits-fireplaces.webp",
+        "srcset": "/images/service-fire-pits-fireplaces-400w.webp 400w, /images/service-fire-pits-fireplaces-800w.webp 800w, /images/service-fire-pits-fireplaces-1200w.webp 1200w, /images/service-fire-pits-fireplaces.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergolas-pavilions": {
+        "src": "/images/service-pergolas-pavilions.webp",
+        "srcset": "/images/service-pergolas-pavilions-400w.webp 400w, /images/service-pergolas-pavilions-800w.webp 800w, /images/service-pergolas-pavilions-1200w.webp 1200w, /images/service-pergolas-pavilions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
